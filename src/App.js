@@ -3,6 +3,8 @@ import "./App.css";
 import web3 from "./web3";
 import myBank from "./myBank";
 
+//Test comment
+
 class App extends Component {
   state = {
     owner: "",
